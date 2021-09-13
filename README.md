@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arshiahaeri89
+- 👋 Hi, I’m Arshia Haeri-Mehrizi
 - 👀 I’m interested in Java Programing
 - 💞️ I’m looking to collaborate on my Projects
 
