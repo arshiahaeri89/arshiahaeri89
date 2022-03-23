@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arshia Haeri-Mehrizi
-- 👀 I’m interested in Java Programing
+- 👀 I’m interested in Java and python Programing
 - 💞️ I’m looking to collaborate on my Projects
 
 <!---
